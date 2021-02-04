@@ -1,0 +1,17 @@
+'''
+Link:(https://docs.google.com/document/d/1OzFbzSPA4LZBZc3SnGgoTHXgQkHtIkOBax-JMipEfus/edit?usp=sharing)
+Answers for Worksheet 1:
+1. “It is cold outside”
+2. “I will take out the trash”
+3. “This homework is easy”
+4. str(a) + “ is an odd number”
+5. 
+a = 15
+if (a % 2 = 0):
+	print(str(a) + “ is an even number”)
+elif (a % 2 = 1):
+	print(str(a) + “ is an odd number”)
+6. This problem is done
+7. “The weather is nice outside”
+8. “Only one more question to go”
+9. 12
